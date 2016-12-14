@@ -1,6 +1,6 @@
 # Kaggle_Allstate
 
-My code for the Allsate Claims Severity contest on Kaggle. 
+My code for the Allstate Claims Severity contest on Kaggle. (Oct10th-Dec12th 2016) 
 
 Public LB Score: 1100.14 (Rank 36th)
 
